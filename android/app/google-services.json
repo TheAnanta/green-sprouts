@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "733302982386",
+    "project_id": "stemquest-ai-genkit-ananta",
+    "storage_bucket": "stemquest-ai-genkit-ananta.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733302982386:android:4373d625de3b49dbc2726b",
+        "android_client_info": {
+          "package_name": "in.theananta.stemqu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC30K33DYayHwbOl5GgJjFxGPy9czMiQ64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733302982386:android:473c618f1d4a2282c2726b",
+        "android_client_info": {
+          "package_name": "in.theananta.stemquest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC30K33DYayHwbOl5GgJjFxGPy9czMiQ64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
